@@ -30,6 +30,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onDestroy() {
         super.onDestroy();
         Log.v(TAG, "onDestroy");
-        numero = 2;
+        numero = 3;
     }
 }
