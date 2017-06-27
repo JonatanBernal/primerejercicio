@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">jonatanbernal1</string>
+    <string name="textoActivity1">1</string>
+    <string name="textoActivity2">2</string>
 </resources>

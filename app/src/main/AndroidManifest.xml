@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Numero1" />
+        <activity android:name=".Numero3" />
+        <activity android:name=".bandera"></activity>
     </application>
 
 </manifest>
